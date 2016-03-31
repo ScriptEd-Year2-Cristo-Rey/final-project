@@ -2,7 +2,7 @@
 
 ![like a boss](http://i.giphy.com/3VMZDyn8uOU0g.gif)
 
-After interning at a bunch of different companies and then landing a great job, you've decided you would like to be your own boss. You and your business partners are going to start your own company.
+After interning at a bunch of different companies and then landing a great job, you've decided you would like to be your own boss. You and your business partners are going to start your own company!
 
 ### Project Themes
 
