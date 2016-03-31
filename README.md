@@ -47,4 +47,4 @@ After interning at a bunch of different companies and then landing a great job, 
 * Wireframes due **Thursday 4/14**
 * MVP version of Final Project due **Friday 5/6**
 * Final Project due **Thursday 5/19**
-* Demo Day Friday **5/20**
+* Demo Day **Friday 5/20**
