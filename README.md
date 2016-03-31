@@ -4,7 +4,7 @@
 
 After interning at a bunch of different companies and then landing a great job, you've decided you would like to be your own boss. You and your business partners are going to start your own company.
 
-### Project Themes:
+### Project Themes
 
 * Something your friends would use
 * Something that solves a problem your community
@@ -12,7 +12,7 @@ After interning at a bunch of different companies and then landing a great job, 
 * Something that would make money
 * Something that would make your life easier
 
-### Project Requirements:
+### Project Requirements
 
 * Teams of 2-3 students and 1 mentor
 * Project must include at least one external javascript file & css stylesheet
@@ -20,14 +20,14 @@ After interning at a bunch of different companies and then landing a great job, 
 * Project must include at least one external API
 * Project must react to user input and add elements to the page
 
-### Project Deliverables:
+### Project Deliverables
 
 * Written pitch
 * GitHub repository with all of the final project’s code 
 * Cloud9 website (your final project)
 * 5 minute demo 
 
-### Skills to Reinforce:
+### Skills to Reinforce
 
 * Pitching (formal written pitch and presentation to peers)
 * Project planning (setting deadlines and goals)
@@ -41,7 +41,7 @@ After interning at a bunch of different companies and then landing a great job, 
   * Debugging
   * Working with APIs
 
-### Deadlines:
+### Deadlines
 
 * Written Pitch due **Thursday 4/7**
 * Wireframes due **Thursday 4/14**
