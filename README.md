@@ -23,6 +23,8 @@ After interning at a bunch of different companies and then landing a great job, 
 ### Project Deliverables
 
 * Written pitch
+  * [Pitch template](https://docs.google.com/document/d/1kz_71ktuj1tM13YFHw3ycvzFqTHMAKxoiBYymzZn_xE/edit?usp=sharing)
+  * [Example pitch](https://docs.google.com/document/d/17YXUckoST_CEvbnRUOhlng7-WLe4me6RNa2boJeAXMk/edit?usp=sharing)
 * GitHub repository with all of the final project’s code 
 * Cloud9 website (your final project)
 * 5 minute demo 
